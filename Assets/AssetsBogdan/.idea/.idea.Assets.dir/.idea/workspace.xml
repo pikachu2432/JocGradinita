@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bd7961be-dcb4-4406-b66c-0e72885bfa9f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Avion.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/avion.cs" />
+        <option value="$PROJECT_DIR$/Avion.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lhHriQo4NdPWpGQzlXGLMw6i1i" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Unity" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="5938">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="5938" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd7961be-dcb4-4406-b66c-0e72885bfa9f" name="Default Changelist" comment="" />
+      <created>1608042606120</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608042606120</updated>
+      <workItem from="1608042614559" duration="1545000" />
+      <workItem from="1608046161426" duration="437000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="329" y="105" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608046419706">
+      <screen x="0" y="25" width="1680" height="877" />
+    </state>
+    <state x="329" y="105" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1680.877@0.25.1680.877" timestamp="1608046419706" />
+    <state x="329" y="106" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1680.886@0.25.1680.886" timestamp="1608046248500" />
+    <state x="374" y="82" key="SettingsEditor" timestamp="1608046675634">
+      <screen x="0" y="25" width="1680" height="877" />
+    </state>
+    <state x="374" y="82" key="SettingsEditor/0.25.1680.877@0.25.1680.877" timestamp="1608046675634" />
+  </component>
+</project>
